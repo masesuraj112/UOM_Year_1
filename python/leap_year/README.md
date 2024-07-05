@@ -10,3 +10,5 @@ This means that in the Gregorian calendar, the years 2000 and 2400 are leap year
 Task
 
 Given a year, determine whether it is a leap year. 
+
+There are two methods given for this problem. Method 1 is more faster and more accurate than Method 2.
